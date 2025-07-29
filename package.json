@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/venkatasai135/S219_CICD.git",
+  "homepage": "https://venkatasai135.github.io/S219_CICD/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
